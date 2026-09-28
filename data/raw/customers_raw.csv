@@ -1,0 +1,301 @@
+customer_id,outlet_name,region,channel,rep_id
+C001,NANA'S KIOSK 1,Western,Super Market,R07
+C002,Family Provisions 2,Ashanti,Supermarket,R04
+C003,Royal Enterprise 3,Northern,Supermarket,R13
+C004,Grace Depot 4,Western Region,Supermarket,R08
+C005,Grace Depot 5,Volta,Supermarket,R16
+C006,Royal Mini Mart 6,Ashanti,supermarket,R05
+C007,Grace Provisions 7,ashanti region,Supermarket,R06
+C008,Nana's Wholesale 8,Ashanti,Retail Shop,R04
+C009,Nana's Depot 9,Eastern,Supermarket,R10
+C010,ADWOA'S DEPOT 10,Western,Supermarket,R09
+C011,Star Kiosk 11,Greater Accra,Supermarket,R01
+C012,  Royal Enterprise 12  ,Western,Retail Shop,R07
+C013,Unity Kiosk 13,Ashanti,Retail Shop,R05
+C014,Blessed Enterprise 14,western,Retail Shop,R08
+C015,Trust Provisions 15,Eastern,Supermarket,R11
+C016,Trust Kiosk 16,ashanti region,Retail Shop,R06
+C017,Nana's Wholesale 17,Northern Region ,Supermarket,R14
+C018,Unity Depot 18,Ashanti,Retail Shop,R04
+C019,GOLDEN WHOLESALE 19,Greater Accra,Super Market,R02
+C020,Adwoa's Kiosk 20,Volta,Supermarket,R17
+C021,Blessed Depot 21,ashanti region,Retail shop,R05
+C022,Sunrise Provisions 22,Ashanti,Retail Shop,R06
+C023,  Sunrise Depot 23  ,Ashanti ,Retail Shop,R04
+C024,Nana's Enterprise 24,Volta,Supermarket,R18
+C025,Family Depot 25,EASTERN,Supermarket,R12
+C026,Sunrise Wholesale 26,Volta Region,Retail Shop,R16
+C027,Sunrise Depot 27,Ashanti ,RETAIL,R05
+C028,FAMILY MINI MART 28,Eastern,Retail Shop,R10
+C029,Grace Store 29,Greater Accra,Super Market,R03
+C030,Golden Mini Mart 30,Western,Retail Shop,R09
+C031,Trust Provisions 31,Western,Retail Shop,R07
+C032,Trust Enterprise 32,volta,Retail Shop,R17
+C033,City Supermarket 33,Greater Accra,Retail Shop,R01
+C034,  City Store 34  ,Northern,supermarket,R15
+C035,Nana's Depot 35,EASTERN,Retail Shop,R11
+C036,Star Depot 36,Volta,Retail Shop,R18
+C037,TRUST WHOLESALE 37,Western Region,Retail Shop,R08
+C038,Family Enterprise 38,Greater Accra,Retail shop,R02
+C039,Star Wholesale 39,ASHANTI,Kiosk,R06
+C040,Family Depot 40,Greater Accra,Retail Shop,R03
+C041,Sunrise Enterprise 41,Northern Region ,Retail shop,R13
+C042,Royal Wholesale 42,Ashanti ,Kiosk,R04
+C043,Unity Mini Mart 43,Ashanti,Kiosk,R05
+C044,Adwoa's Supermarket 44,Greater Accra,Retail Shop,R01
+C045,  Star Depot 45  ,Accra,Retail shop,R02
+C046,FAMILY DEPOT 46,Western,Retail Shop,R09
+C047,Blessed Store 47,Western,Retail Shop,R07
+C048,Unity Depot 48,Volta,Retail Shop,R16
+C049,City Depot 49,Ashanti,KIOSK,R06
+C050,Sunrise Mini Mart 50,Greater Accra,Retail Shop,R03
+C051,Unity Kiosk 51,Northern,Retail Shop,R14
+C052,City Provisions 52,Western,RETAIL,R08
+C053,City Wholesale 53,Eastern,Retail Shop,R12
+C054,City Supermarket 54,volta,Retail Shop,R17
+C055,SUNRISE DEPOT 55,Eastern Region,Retail shop,R10
+C056,  Nana's Wholesale 56  ,northern,Retail Shop,R15
+C057,City Kiosk 57,Eastern,Retail Shop,R11
+C058,Nana's Store 58,ASHANTI,Kiosk,R04
+C059,Trust Enterprise 59,Ashanti,Kiosk,R05
+C060,Golden Depot 60,Greater Accra,Retail Shop,R01
+C061,Adwoa's Provisions 61,Ashanti,KIOSK,R06
+C062,Adwoa's Depot 62,Ashanti,Wholesale,R04
+C063,Grace Provisions 63,ashanti region,Wholesale,R05
+C064,GRACE STORE 64,Greater Accra,RETAIL,R02
+C065,Royal Provisions 65,GREATER ACCRA,Kiosk,R03
+C066,Grace Mini Mart 66,ashanti region,Supermarket,R06
+C067,  Family Wholesale 67  ,Eastern Region,Retail Shop,R12
+C068,Star Kiosk 68,ashanti region,Super Market,R04
+C069,Golden Mini Mart 69,northern,Retail Shop,R13
+C070,Blessed Depot 70,greater accra,KIOSK,R01
+C071,Trust Supermarket 71,GREATER ACCRA,Kiosk,R02
+C072,Family Store 72,Western,Kiosk,R09
+C073,CITY SUPERMARKET 73,Ashanti,Supermarket,R05
+C074,Grace Wholesale 74,Volta,retail,R18
+C075,Nana's Enterprise 75,greater accra,Kiosk,R03
+C076,Star Supermarket 76,Greater Accra,KIOSK,R01
+C077,Golden Wholesale 77,Ashanti ,Retail Shop,R06
+C078,  Family Enterprise 78  ,Eastern,Retail Shop,R10
+C079,Sunrise Supermarket 79,volta,Retail Shop,R16
+C080,Family Store 80,Eastern Region,Retail Shop,R11
+C081,Sunrise Mini Mart 81,Greater Accra,Kiosk,R02
+C082,NANA'S ENTERPRISE 82,ASHANTI,Retail Shop,R04
+C083,Nana's Mini Mart 83,Western,KIOSK,R07
+C084,Blessed Kiosk 84,Western,kiosk,R08
+C085,Adwoa's Mini Mart 85,western,Kiosk,R09
+C086,Family Depot 86,GREATER ACCRA,Kiosk,R03
+C087,Blessed Wholesale 87,Ashanti,Retail Shop,R05
+C088,City Kiosk 88,Eastern,Kiosk,R12
+C089,  Nana's Depot 89  ,Eastern,kiosk,R10
+C090,City Supermarket 90,Northern,RETAIL,R14
+C091,GOLDEN STORE 91,Greater Accra,wholesale,R01
+C092,Sunrise Kiosk 92,Northern,Retail Shop,R15
+C093,City Store 93,Western,Kiosk,R07
+C094,Star Provisions 94,Ashanti,RETAIL,R06
+C095,Family Enterprise 95,Ashanti ,retail,R04
+C096,Adwoa's Store 96,Volta,Retail Shop,R17
+C097,Star Supermarket 97,Greater Accra,Wholesale,R02
+C098,Adwoa's Mini Mart 98,Western,Kiosk,R08
+C099,City Store 99,western,kiosk,R09
+C100,CITY MINI MART 100,Ashanti,Retail Shop,R05
+C101,Golden Store 101,Volta,kiosk,R18
+C102,Family Supermarket 102,volta,kiosk,R16
+C103,Golden Supermarket 103,Gt. Accra,Supermarket,R03
+C104,Sunrise Wholesale 104,Western,wholesale,R07
+C105,Sunrise Enterprise 105,Ashanti ,Retail Shop,R06
+C106,Nana's Enterprise 106,Eastern,KIOSK,R11
+C107,Unity Supermarket 107,Ashanti,Retail Shop,R04
+C108,Blessed Supermarket 108,Volta Region,Kiosk,R17
+C109,UNITY DEPOT 109,Western,Wholesale,R08
+C110,City Enterprise 110,Greater Accra,Supermarket,R01
+C111,  Unity Depot 111  ,Greater Accra,Supermarket,R02
+C112,Golden Kiosk 112,Greater Accra,Retail Shop,R03
+C113,Family Depot 113,greater accra,Retail Shop,R01
+C114,City Provisions 114,Volta Region,kiosk,R18
+C115,Family Wholesale 115,Eastern,Kiosk,R12
+C116,Nana's Store 116,Volta,Kiosk,R16
+C117,Royal Mini Mart 117,Western,Super Market,R09
+C118,NANA'S DEPOT 118,Western Region,Supermarket,R07
+C119,Star Kiosk 119,Northern,RETAIL,R13
+C120,Sunrise Supermarket 120,Greater Accra,Retail Shop,R02
+C121,Adwoa's Kiosk 121,greater accra,Retail Shop,R03
+C122,  Golden Kiosk 122  ,Western,Supermarket,R08
+C123,Family Store 123,Volta Region,Kiosk,R17
+C124,Nana's Wholesale 124,EASTERN,Kiosk,R10
+C125,Family Store 125,Western,retail,R09
+C126,Grace Wholesale 126,Greater Accra,RETAIL,R01
+C127,GRACE WHOLESALE 127,ashanti region,Kiosk,R05
+C128,Star Supermarket 128,Greater Accra,Retail Shop,R02
+C129,Nana's Wholesale 129,Eastern,Kiosk,R11
+C130,Nana's Enterprise 130,Northern,Retail Shop,R14
+C131,Golden Provisions 131,volta,Kiosk,R18
+C132,Star Mini Mart 132,Northern,kiosk,R15
+C133,  Blessed Supermarket 133  ,Ashanti,Kiosk,R06
+C134,Star Provisions 134,ASHANTI,Kiosk,R04
+C135,Family Kiosk 135,western,Retail shop,R07
+C136,UNITY PROVISIONS 136,Greater Accra,Retail Shop,R03
+C137,Unity Kiosk 137,Eastern,KIOSK,R12
+C138,Golden Wholesale 138,Ashanti,Kiosk,R05
+C139,Unity Provisions 139,western,Retail Shop,R08
+C140,Adwoa's Enterprise 140,Ashanti,Kiosk,R06
+C141,Unity Enterprise 141,Ashanti,Kiosk,R04
+C142,Adwoa's Mini Mart 142,Greater Accra,Retail Shop,R01
+C143,Nana's Store 143,Northern Region ,kiosk,R13
+C144,  Adwoa's Wholesale 144  ,Volta,Wholesale,R16
+C145,NANA'S PROVISIONS 145,Greater Accra,Kiosk,R02
+C146,Star Kiosk 146,western,Retail Shop,R09
+C147,Blessed Depot 147,Greater Accra,Kiosk,R03
+C148,Grace Mini Mart 148,Northern,kiosk,R14
+C149,Sunrise Kiosk 149,Eastern,Wholesale,R10
+C150,Grace Store 150,Eastern,Wholesale,R11
+C151,Grace Depot 151,Western Region,Retail Shop,R07
+C152,Sunrise Provisions 152,Northern,Kiosk,R15
+C153,Star Kiosk 153,Volta,Wholesale,R17
+C154,FAMILY WHOLESALE 154,Eastern Region,Super Market,R12
+C155,  Sunrise Wholesale 155  ,ASHANTI,KIOSK,R05
+C156,Blessed Mini Mart 156,Western,Retail Shop,R08
+C157,Trust Enterprise 157,Volta,Supermarket,R18
+C158,Adwoa's Wholesale 158,Volta,Supermarket,R16
+C159,Trust Kiosk 159,Eastern,Supermarket,R10
+C160,Unity Provisions 160,western,Retail Shop,R09
+C161,Unity Enterprise 161,Greater Accra,Kiosk,R01
+C162,Blessed Mini Mart 162,Northern,kiosk,R13
+C163,FAMILY KIOSK 163,EASTERN,Supermarket,R11
+C164,Royal Mini Mart 164,ashanti region,Wholesale,R06
+C165,Trust Provisions 165,Eastern,Retail Shop,R12
+C166,  Golden Provisions 166  ,Western,RETAIL,R07
+C167,Nana's Mini Mart 167,Western,Kiosk,R08
+C168,Golden Kiosk 168,Greater Accra,Kiosk,R02
+C169,Grace Wholesale 169,northern,Kiosk,R14
+C170,Adwoa's Enterprise 170,Ashanti ,Wholesale,R04
+C171,Grace Supermarket 171,Greater Accra,Kiosk,R03
+C172,BLESSED ENTERPRISE 172,Greater Accra,Kiosk,R01
+C173,Sunrise Enterprise 173,Gt. Accra,KIOSK,R02
+C174,Royal Enterprise 174,western,Kiosk,R09
+C175,Star Store 175,Greater Accra,Wholesale,R03
+C176,Golden Supermarket 176,ashanti region,Supermarket,R05
+C177,  Family Mini Mart 177  ,EASTERN,Retail Shop,R10
+C178,Star Enterprise 178,Western,KIOSK,R07
+C179,Unity Supermarket 179,Greater Accra,wholesale,R01
+C180,Royal Mini Mart 180,Ashanti,Supermarket,R06
+C181,ADWOA'S WHOLESALE 181,Volta,Supermarket,R17
+C182,Family Depot 182,Greater Accra,Super Market,R02
+C183,Sunrise Wholesale 183,Ashanti,supermarket,R04
+C184,Blessed Supermarket 184,Ashanti ,RETAIL,R05
+C185,Star Provisions 185,EASTERN,Retail Shop,R11
+C186,Golden Mini Mart 186,Northern,Kiosk,R15
+C187,Star Wholesale 187,western,Kiosk,R08
+C188,  Blessed Kiosk 188  ,ashanti region,Retail Shop,R06
+C189,Adwoa's Mini Mart 189,Greater Accra,Super Market,R03
+C190,STAR STORE 190,Eastern,Retail Shop,R12
+C191,City Mini Mart 191,EASTERN,Retail Shop,R10
+C192,Royal Supermarket 192,Eastern,Retail shop,R11
+C193,Trust Enterprise 193,Northern,Wholesale,R13
+C194,Trust Kiosk 194,Eastern,Retail Shop,R12
+C195,Royal Wholesale 195,Greater Accra,Supermarket,R01
+C196,Blessed Store 196,Western,Kiosk,R09
+C197,Blessed Kiosk 197,Western,Kiosk,R07
+C198,City Depot 198,Ashanti,RETAIL,R04
+C199,FAMILY DEPOT 199,Northern,wholesale,R14
+C200,Star Wholesale 200,greater accra,Retail shop,R02
+C201,Royal Supermarket 201,GREATER ACCRA,RETAIL,R03
+C202,Star Enterprise 202,Volta,retail,R18
+C203,Golden Depot 203,GREATER ACCRA,Retail Shop,R01
+C204,Adwoa's Kiosk 204,Volta,Retail Shop,R16
+C205,Family Enterprise 205,Greater Accra,Retail Shop,R02
+C206,Adwoa's Supermarket 206,ASHANTI,RETAIL,R05
+C207,Nana's Wholesale 207,ashanti region,Retail Shop,R06
+C208,BLESSED WHOLESALE 208,western,Kiosk,R08
+C209,Golden Provisions 209,Western,Wholesale,R09
+C210,  Adwoa's Store 210  ,Greater Accra,retail,R03
+C211,Trust Wholesale 211,greater accra,RETAIL,R01
+C212,Grace Mini Mart 212,Western,Wholesale,R07
+C213,Sunrise Enterprise 213,Accra,Retail Shop,R02
+C214,Family Supermarket 214,Eastern,retail,R10
+C215,Family Provisions 215,Greater Accra,Retail shop,R03
+C216,Nana's Supermarket 216,Eastern,KIOSK,R11
+C217,TRUST ENTERPRISE 217,Greater Accra,Kiosk,R01
+C218,Blessed Wholesale 218,Western,Super Market,R08
+C219,Unity Mini Mart 219,Western Region,Supermarket,R09
+C220,Trust Store 220,Greater Accra,Kiosk,R02
+C221,  Golden Wholesale 221  ,Eastern,kiosk,R12
+C222,Unity Wholesale 222,Ashanti,Retail Shop,R04
+C223,Blessed Supermarket 223,Eastern,Kiosk,R10
+C224,Sunrise Store 224,Northern,Super Market,R15
+C225,Trust Mini Mart 225,Northern,Supermarket,R13
+C226,GRACE DEPOT 226,Volta,Retail Shop,R17
+C227,Sunrise Kiosk 227,Northern,Supermarket,R14
+C228,Family Supermarket 228,Ashanti,Retail Shop,R05
+C229,Trust Mini Mart 229,Western Region,Supermarket,R07
+C230,Golden Kiosk 230,Volta,Retail Shop,R18
+C231,Family Supermarket 231,Western,Retail Shop,R08
+C232,  Golden Mini Mart 232  ,Greater Accra,Kiosk,R03
+C233,Nana's Mini Mart 233,Western,Retail Shop,R09
+C234,Blessed Provisions 234,Eastern,KIOSK,R11
+C235,BLESSED WHOLESALE 235,Northern,Retail Shop,R15
+C236,Royal Supermarket 236,Ashanti,Retail Shop,R06
+C237,Grace Store 237,Greater Accra,kiosk,R01
+C238,Golden Provisions 238,ashanti region,Kiosk,R04
+C239,Blessed Depot 239,Ashanti,Kiosk,R05
+C240,Nana's Provisions 240,Ashanti,Kiosk,R06
+C241,Sunrise Wholesale 241,Greater Accra,Kiosk,R02
+C242,Grace Wholesale 242,Northern,Retail Shop,R13
+C243,  Star Provisions 243  ,Western,Retail Shop,R07
+C244,BLESSED DEPOT 244,Greater Accra,Kiosk,R03
+C245,City Provisions 245,Volta,Retail Shop,R16
+C246,Family Store 246,western,Retail Shop,R08
+C247,Blessed Depot 247,greater accra,Kiosk,R01
+C248,Grace Kiosk 248,Volta,Retail Shop,R17
+C249,Nana's Provisions 249,Western,retail,R09
+C250,Nana's Depot 250,Eastern,Kiosk,R12
+C251,Unity Wholesale 251,Volta Region,Retail Shop,R18
+C252,Star Store 252,Volta Region,retail,R16
+C253,GOLDEN KIOSK 253,Northern,Retail Shop,R14
+C254,  Sunrise Kiosk 254  ,Volta,Kiosk,R17
+C255,Blessed Depot 255,Greater Accra,Wholesale,R02
+C256,Sunrise Kiosk 256,greater accra,Wholesale,R03
+C257,Golden Store 257,Western,Retail Shop,R07
+C258,City Store 258,Northern,Retail Shop,R15
+C259,Trust Kiosk 259,Greater Accra,Super Market,R01
+C260,Blessed Enterprise 260,Western,Retail shop,R08
+C261,Grace Enterprise 261,Ashanti,kiosk,R04
+C262,ROYAL SUPERMARKET 262,Northern,retail,R13
+C263,City Supermarket 263,Greater Accra,Supermarket,R02
+C264,Sunrise Wholesale 264,northern,Retail Shop,R14
+C265,  Blessed Provisions 265  ,Northern,Retail Shop,R15
+C266,Blessed Wholesale 266,Greater Accra,Supermarket,R03
+C267,City Wholesale 267,Western,Retail Shop,R09
+C268,Golden Wholesale 268,ASHANTI,Kiosk,R05
+C269,Royal Kiosk 269,Eastern,Kiosk,R10
+C270,Golden Provisions 270,western,KIOSK,R07
+C271,UNITY WHOLESALE 271,Eastern,Kiosk,R11
+C272,Grace Depot 272,Volta,kiosk,R18
+C273,Star Enterprise 273,Volta Region,Kiosk,R16
+C274,Sunrise Mini Mart 274,Western,Kiosk,R08
+C275,Family Kiosk 275,Greater Accra,Retail shop,R01
+C276,  Star Enterprise 276  ,Greater Accra,RETAIL,R02
+C277,Blessed Provisions 277,Eastern Region,Wholesale,R12
+C278,Star Depot 278,Greater Accra,RETAIL,R03
+C279,Star Store 279,Western,KIOSK,R09
+C280,SUNRISE KIOSK 280,western,Kiosk,R07
+C281,Star Kiosk 281,Northern,Retail Shop,R13
+C282,Adwoa's Enterprise 282,ASHANTI,Kiosk,R06
+C283,Trust Supermarket 283,western,Kiosk,R08
+C284,Adwoa's Wholesale 284,Greater Accra,Retail Shop,R01
+C285,Family Wholesale 285,Greater Accra,Retail shop,R02
+C286,Golden Kiosk 286,Ashanti,Kiosk,R04
+C287,  Grace Enterprise 287  ,Greater Accra,Retail Shop,R03
+C288,City Depot 288,EASTERN,Wholesale,R10
+C289,BLESSED MINI MART 289,Ashanti,Wholesale,R05
+C290,Adwoa's Store 290,Western,KIOSK,R09
+C291,Star Provisions 291,Accra,RETAIL,R01
+C292,Star Wholesale 292,Eastern Region,Supermarket,R11
+C293,Blessed Mini Mart 293,Greater Accra,Retail Shop,R02
+C294,Royal Depot 294,Eastern,Supermarket,R12
+C295,Family Wholesale 295,Western,kiosk,R07
+C296,Grace Kiosk 296,Northern,Kiosk,R14
+C297,Nana's Store 297,GREATER ACCRA,Kiosk,R03
+C298,FAMILY MINI MART 298,Northern,Kiosk,R15
+C299,Nana's Supermarket 299,ashanti region,wholesale,R06
+C300,Blessed Store 300,Eastern,Supermarket,R10

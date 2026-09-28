@@ -1,0 +1,15 @@
+table,issue,rows_affected,action
+products,"sku case/whitespace, category case, price stored as text",12,standardised
+customers,"region/channel spelling variants, name case & spaces",300,mapped to standard values
+sales_reps,"name case, region variants, mixed date formats",18,standardised
+sales,exact duplicate rows,586,dropped
+sales,missing/invalid order_date ('N/A'),12,dropped (cannot be placed in time)
+sales,region/channel spelling variants,29337,mapped to standard values
+sales,negative quantity (assumed sign entry error),276,converted to positive
+sales,quantity > 10x median for SKU/channel (typing errors),11,"replaced with median, flagged"
+sales,missing quantity,1173,"imputed with SKU/channel median, flagged"
+sales,missing unit_price,879,"filled with same-SKU, same-month median price"
+sales,missing discount_pct,880,assumed 0
+sales,missing sales_rep_id,586,looked up from customer master
+targets,blank target_amount / month in 2 text formats,6,interpolated between neighbouring months; months parsed
+deliveries,duplicate rows,8,dropped

@@ -1,0 +1,5 @@
+sku,avg_monthly_units,sd_monthly_units,lead_days_normal,lead_days_now,safety_stock_normal,safety_stock_now,reorder_point_now
+SKU001,701.9,161.4,2.6,10.0,85.0,207.0,441.0
+SKU002,580.9,186.7,2.4,11.3,94.0,220.0,439.0
+SKU003,441.3,93.4,2.4,11.7,55.0,97.0,269.0
+SKU004,404.8,130.5,2.4,11.7,66.0,145.0,302.0

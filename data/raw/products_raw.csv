@@ -1,0 +1,13 @@
+sku,product_name,category,list_price,unit_cost,pack_size
+SKU001,Pure Spring Water 500ml (12-pack),Beverages,GHS 18.00,12.5,12
+SKU002,Tropical Juice 1L (6-pack),beverages,42.0,30.0,6
+sku003,Malt Drink 330ml (24-pack),BEVERAGES,96.0,70.0,24
+SKU004,Energy Drink 250ml (24-pack),Beverages,110.0,80.0,24
+SKU005,Laundry Detergent 1kg,Household,GHS 28.00,19.0,1
+SKU006 ,Bath Soap (12-pack),household,36.0,24.0,12
+SKU007,Toothpaste 100g (12-pack),Household,54.0,38.0,12
+sku008,Tomato Paste 400g (12-tin),FOOD,66.0,48.0,12
+SKU009,Cooking Oil 1L (12-pack),Food,168.0,135.0,12
+SKU010,Rice 5kg,food,GHS 88.00,68.0,1
+SKU011,Cream Biscuits (24-pack),Food,60.0,42.0,24
+SKU012,Instant Noodles (40-pack),Food,72.0,52.0,40

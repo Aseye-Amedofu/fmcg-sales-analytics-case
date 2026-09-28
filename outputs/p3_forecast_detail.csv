@@ -1,0 +1,109 @@
+region,category,month,forecast,actual
+Ashanti,Beverages,2026-07,164117,102169.0
+Ashanti,Beverages,2026-08,180358,73979.0
+Ashanti,Beverages,2026-09,174273,105610.0
+Ashanti,Beverages,2026-10,224765,
+Ashanti,Beverages,2026-11,199665,
+Ashanti,Beverages,2026-12,178145,
+Ashanti,Food,2026-07,177501,135794.0
+Ashanti,Food,2026-08,189826,172462.0
+Ashanti,Food,2026-09,207967,202065.0
+Ashanti,Food,2026-10,211054,
+Ashanti,Food,2026-11,156744,
+Ashanti,Food,2026-12,269545,
+Ashanti,Household,2026-07,55472,63240.0
+Ashanti,Household,2026-08,60755,58648.0
+Ashanti,Household,2026-09,69796,59559.0
+Ashanti,Household,2026-10,65191,
+Ashanti,Household,2026-11,84975,
+Ashanti,Household,2026-12,56953,
+Eastern,Beverages,2026-07,78966,92439.0
+Eastern,Beverages,2026-08,92182,79060.0
+Eastern,Beverages,2026-09,81266,83123.0
+Eastern,Beverages,2026-10,102615,
+Eastern,Beverages,2026-11,97021,
+Eastern,Beverages,2026-12,110795,
+Eastern,Food,2026-07,160416,111858.0
+Eastern,Food,2026-08,117632,129456.0
+Eastern,Food,2026-09,124284,145717.0
+Eastern,Food,2026-10,190098,
+Eastern,Food,2026-11,187917,
+Eastern,Food,2026-12,287081,
+Eastern,Household,2026-07,41859,39315.0
+Eastern,Household,2026-08,27131,38148.0
+Eastern,Household,2026-09,57333,39802.0
+Eastern,Household,2026-10,37999,
+Eastern,Household,2026-11,30339,
+Eastern,Household,2026-12,57233,
+Greater Accra,Beverages,2026-07,143757,173715.0
+Greater Accra,Beverages,2026-08,130268,126732.0
+Greater Accra,Beverages,2026-09,158149,225076.0
+Greater Accra,Beverages,2026-10,171201,
+Greater Accra,Beverages,2026-11,131682,
+Greater Accra,Beverages,2026-12,192490,
+Greater Accra,Food,2026-07,284368,154973.0
+Greater Accra,Food,2026-08,194755,223875.0
+Greater Accra,Food,2026-09,283418,220639.0
+Greater Accra,Food,2026-10,212533,
+Greater Accra,Food,2026-11,271577,
+Greater Accra,Food,2026-12,293742,
+Greater Accra,Household,2026-07,71647,64879.0
+Greater Accra,Household,2026-08,60234,69245.0
+Greater Accra,Household,2026-09,59193,75650.0
+Greater Accra,Household,2026-10,69232,
+Greater Accra,Household,2026-11,77940,
+Greater Accra,Household,2026-12,86336,
+Northern,Beverages,2026-07,45839,53614.0
+Northern,Beverages,2026-08,34564,67809.0
+Northern,Beverages,2026-09,51067,45007.0
+Northern,Beverages,2026-10,37632,
+Northern,Beverages,2026-11,29125,
+Northern,Beverages,2026-12,42510,
+Northern,Food,2026-07,89759,56789.0
+Northern,Food,2026-08,72051,85679.0
+Northern,Food,2026-09,65988,105471.0
+Northern,Food,2026-10,89143,
+Northern,Food,2026-11,94755,
+Northern,Food,2026-12,130898,
+Northern,Household,2026-07,27471,23727.0
+Northern,Household,2026-08,26875,18746.0
+Northern,Household,2026-09,21801,30476.0
+Northern,Household,2026-10,22783,
+Northern,Household,2026-11,16264,
+Northern,Household,2026-12,28554,
+Volta,Beverages,2026-07,30778,43818.0
+Volta,Beverages,2026-08,50704,55568.0
+Volta,Beverages,2026-09,30463,57996.0
+Volta,Beverages,2026-10,54556,
+Volta,Beverages,2026-11,44987,
+Volta,Beverages,2026-12,51209,
+Volta,Food,2026-07,89694,67703.0
+Volta,Food,2026-08,71627,85818.0
+Volta,Food,2026-09,63792,51412.0
+Volta,Food,2026-10,71102,
+Volta,Food,2026-11,88017,
+Volta,Food,2026-12,134191,
+Volta,Household,2026-07,16503,16593.0
+Volta,Household,2026-08,12910,23311.0
+Volta,Household,2026-09,21775,17213.0
+Volta,Household,2026-10,24740,
+Volta,Household,2026-11,23961,
+Volta,Household,2026-12,32896,
+Western,Beverages,2026-07,75412,70322.0
+Western,Beverages,2026-08,88390,103152.0
+Western,Beverages,2026-09,85359,108972.0
+Western,Beverages,2026-10,89943,
+Western,Beverages,2026-11,105104,
+Western,Beverages,2026-12,108814,
+Western,Food,2026-07,157289,178399.0
+Western,Food,2026-08,157729,151186.0
+Western,Food,2026-09,185550,191223.0
+Western,Food,2026-10,169112,
+Western,Food,2026-11,158875,
+Western,Food,2026-12,237761,
+Western,Household,2026-07,39026,35364.0
+Western,Household,2026-08,38619,39826.0
+Western,Household,2026-09,32690,40522.0
+Western,Household,2026-10,50797,
+Western,Household,2026-11,45911,
+Western,Household,2026-12,68387,
