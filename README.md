@@ -22,7 +22,6 @@ A self-contained, synthetic data analytics case built to practice for the Statis
 12. [Skills practiced](#12-skills-practised)
 13. [Limitations](#13-limitations)
 
-For detailed methods, expected findings and the Power BI report layout, see **`GUIDE.docx`**. This README covers the FMCG_CaseStudy itself: what is in it, how to run it, and how to fix problems.
 
 ---
 
